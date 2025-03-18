@@ -1,3 +1,5 @@
+# Merc-AI
+
 <p align="center">
   <a href="https://github.com/daniel-akproh/Merc-AI">
     <img src="MercAI-logo.png" alt="MercAI Logo" style="width:200px;" />
